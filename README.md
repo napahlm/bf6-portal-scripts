@@ -1,2 +1,3 @@
-# bf6-portal-scripts
-Repository of Battlefield 6 Portal scripts.
+# Battlefield 6 Portal Scripts
+
+This repository is a collection of scripts for the portal builder.
